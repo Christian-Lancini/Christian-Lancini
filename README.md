@@ -65,7 +65,7 @@ I enjoy building projects, experimenting with new technologies, and learning by 
 
 📧 **Email:** [chrilanci00@gmail.com](mailto:chrilanci00@gmail.com)
 
-🧑‍💻 **GitHub:** [@ChristianLancini](https://github.com/ChristianLancini)
+🧑‍💻 **GitHub:** [@ChristianLancini](https://github.com/Christian-Lancini)
 
 ---
 
