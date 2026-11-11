@@ -25,6 +25,7 @@ I enjoy building projects, experimenting with new technologies, and learning by 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![Assembly 8086](https://img.shields.io/badge/Assembly_8086-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### Tools & Technologies
 
@@ -33,6 +34,7 @@ I enjoy building projects, experimenting with new technologies, and learning by 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ghidra](https://img.shields.io/badge/Ghidra-DA291C?style=for-the-badge&logo=ghidra&logoColor=white)
 
 
 ---
