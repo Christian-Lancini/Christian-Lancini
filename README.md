@@ -51,6 +51,7 @@ I enjoy building projects, experimenting with new technologies, and learning by 
 ## 📚 Currently Learning
 
 * ⚙️ Improving C++
+* 📚 Learning Assembly 8086
 * 🔐 Cybersecurity techniques
 * 🧠 Basic software architecture
 
